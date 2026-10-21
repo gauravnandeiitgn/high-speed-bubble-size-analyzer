@@ -71,19 +71,20 @@ The reported measurements are preliminary and should not be treated
 as validated physical bubble-size measurements.
 ## Visual Analysis
 
+
 ### 1. Original Frame with Pixel Coordinates
 
-The coordinate grid illustrates the image coordinate system used
-to locate candidate features in the video frame.
+The coordinate grid illustrates the image coordinate system used to locate candidate features in the video frame.
 
-![Original frame with pixel coordinates](bubble_candidate_detection_frame_1340.png1)
+![Original frame with pixel coordinates](original_frame_pixel_coordinates.png)
 
 ### 2. Candidate Bubble Detection
 
-The image below shows candidate bubble-like features identified
-by the contour-based detection pipeline in frame 1340.
+The image below shows candidate bubble-like features identified by the contour-based detection pipeline in frame 1340.
 
-![Candidate bubble detection](original_frame_pixel_coordinates.png)
+![Candidate bubble detection](bubble_candidate_detection_frame_1340.png)
+
+*Note: Detected features are preliminary candidates and may include reflections, overlapping bubbles, and other image artifacts. Physical bubble-size measurements require a validated image calibration.*
 
 *Note: Detected features are preliminary candidates and may include
 reflections, overlapping bubbles, and other image artifacts.*
