@@ -76,14 +76,14 @@ as validated physical bubble-size measurements.
 The coordinate grid illustrates the image coordinate system used
 to locate candidate features in the video frame.
 
-![Original frame with pixel coordinates](original_frame_pixel_coordinates.png)
+![Original frame with pixel coordinates](bubble_candidate_detection_frame_1340.png1)
 
 ### 2. Candidate Bubble Detection
 
 The image below shows candidate bubble-like features identified
 by the contour-based detection pipeline in frame 1340.
 
-![Candidate bubble detection](bubble_candidate_detection_frame_1340.png)
+![Candidate bubble detection](original_frame_pixel_coordinates.png)
 
 *Note: Detected features are preliminary candidates and may include
 reflections, overlapping bubbles, and other image artifacts.*
