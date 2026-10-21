@@ -68,5 +68,4 @@ overlapping bubbles, or other image artifacts.
 ## Disclaimer
 This repository presents an experimental image-analysis prototype.
 The reported measurements are preliminary and should not be treated
-as validated physical bubble-size measurements.# high-speed-bubble-size-analyzer
-python-based computer vision prototype for analyzing bubble-like features in high-speed video.
+as validated physical bubble-size measurements.
