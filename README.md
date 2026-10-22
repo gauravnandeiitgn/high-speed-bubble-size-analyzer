@@ -56,7 +56,8 @@ The reported values describe apparent image-feature diameters in pixels; they ar
 
 The coordinate grid illustrates the image coordinate system used to locate candidate features within the video frame.
 
-![Original frame with pixel coordinates](./original_frame_pixel_coordinates.png)
+![Original frame with pixel coordinates](./original_frame_pixel_coordinates.png.png)
+
 
 
 
@@ -64,7 +65,7 @@ The coordinate grid illustrates the image coordinate system used to locate candi
 
 The following visualization shows candidate bubble-like features identified by the contour-based detection pipeline in Frame 1340.
 
-![Candidate bubble detection in Frame 1340](./bubble_candidate_detection_frame_1340.png)
+![Candidate bubble detection in Frame 1340](./bubble_candidate_detection_frame_1340.png.png)
 
 *Note: The marked features are preliminary detections and may include reflections, overlapping bubbles, or other image artifacts.*
 
